@@ -4,11 +4,11 @@ import re
 
 # Define keywords and their additions
 keywords = {
-    "signature": " SIGADD",
-    "name": " NAMEADD",
-    "date": " DATEADD",
-    "esignature": " ESIGADD",
-    "e-signature": " ESIGADD"
+    "signature": " SIGADD ",
+    "name": " NAMEADD ",
+    "date": " DATEADD ",
+    "esignature": " ESIGADD ",
+    "e-signature": " ESIGADD "
 }
 
 # Set up argument parsing
